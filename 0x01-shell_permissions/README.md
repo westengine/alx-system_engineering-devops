@@ -13,3 +13,4 @@
 11. Script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. (Regular files should not be changed.)
 12. Script that creates a directory called my_/dir with permissions 751 in the working directory.
 13. Script that changes the group owner to school for the file hello. (The file hello will be in the working directory)
+100. Script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
