@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e "$(ls -1 | grep -v '^\.$' | sort -t, -k1,1n -k2,2n | sed '1i.,..')"
