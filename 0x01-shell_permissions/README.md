@@ -14,3 +14,4 @@
 12. Script that creates a directory called my_/dir with permissions 751 in the working directory.
 13. Script that changes the group owner to school for the file hello. (The file hello will be in the working directory)
 100. Script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+101. Write a script that changes the owner and the group owner of \_hello to vincent and staff respectively. (The file \_hello is in the working directory. The file \_hello is a symbolic link).
