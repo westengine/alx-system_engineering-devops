@@ -9,3 +9,4 @@
 7. Script that creates a file named exactly as shown in 7-file
 8. Script that writes into a file the result of another command. Overwrites whatever is in the file. Create the file if it doesn't exist.
 9. Script that duplicates the last line of the file iacta. The file iacta will be in the working directory.
+10. Script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all it subfolders.
