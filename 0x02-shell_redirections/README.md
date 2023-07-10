@@ -8,3 +8,4 @@
 6. Displays the third line of the file iacta (sed not allowed)
 7. Script that creates a file named exactly as shown in 7-file
 8. Script that writes into a file the result of another command. Overwrites whatever is in the file. Create the file if it doesn't exist.
+9. Script that duplicates the last line of the file iacta. The file iacta will be in the working directory.
