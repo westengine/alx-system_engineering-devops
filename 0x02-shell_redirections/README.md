@@ -7,3 +7,4 @@
 5. Display the first 10 lines of /etc/passwd
 6. Displays the third line of the file iacta (sed not allowed)
 7. Script that creates a file named exactly as shown in 7-file
+8. Script that writes into a file the result of another command. Overwrites whatever is in the file. Create the file if it doesn't exist.
